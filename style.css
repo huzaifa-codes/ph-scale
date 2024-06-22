@@ -7,13 +7,14 @@ body{
 h1{
     background-color:#e0e1e2;
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
     
 }
 .color-one{
     background-color:#2f84c5;
-    margin: 1px;
+    margin: 10;
     padding: 1px;
+    
 }
 
 .color-two{
